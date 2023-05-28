@@ -59,3 +59,39 @@ throughout my career, I have actively sought opportunities to learn and grow as 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/V9nineIX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+
+
+
+<h3>Hobby projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+       <td><b>:hammer_and_wrench: Tools</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+        <td><a href="https://github.com/V9nineIX/nft-toolkit"> <b> NFT toolkit</b> </a></td>
+        <td> Web application that can create NFT and Smart contract </td>
+         <td> React, Typescript , Ether.js  ,Tailwind  </td>
+     </tr>
+      <tr>
+        <td><a href="https://github.com/V9nineIX/nft-toolkit"> <b> NFT toolkit api </b> </a></td>
+        <td>API for geraneate Image and manage image collection </td>
+         <td> Node.js, express.js , GrapQL </td>
+     </tr>
+       <tr>
+        <td><a href="https://github.com/V9nineIX/nft-toolkit-contract"> <b> NFT toolkit contract </b> </a></td>
+        <td>Smart contract that can create Both ERC721A and ERC1155</td>
+         <td>Solidity , hardhat </td>
+     </tr>
+        <tr>
+        <td><a href="https://github.com/V9nineIX/BKKBusInfo-Mobile"> <b> BKKBusInfo-Mobile </b> </a></td>
+        <td>Mobile app show info about rounting of Bus in Bangkok</td>
+         <td> React-native </td>
+     </tr>
+  </tbody>
+</table>
