@@ -12,7 +12,7 @@ One area of keen interest for me is the exciting world of blockchain technology.
 
 throughout my career, I have actively sought opportunities to learn and grow as a developer. I stay up-to-date with the latest industry trends and technologies, constantly seeking to expand my knowledge and enhance my development skills.
 
-* 🌍  I'm based in Samutprakarn Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [winai.ruks@gmail.com](mailto:winai.ruks@gmail.com)
 * 🧠  I'm learning Blockchain , AI (LLM)
 
