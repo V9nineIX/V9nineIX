@@ -6,7 +6,7 @@ Senior Front end Developer
 
 I'm a frontend developer with 5+ years of experience in the industry. I embarked on my coding journey over 5 years ago, starting with HTML and JavaScript. As I delved deeper into web development,
 
-Over time, I honed my skills in React and expanded my expertise to include Next.js framework. These tools have allowed me to build scalable and performant applications across multiple platforms. 
+Over time, I honed my skills in React and expanded my expertise to include Next.js framework. These tools have allowed me to build scalable and performant applications 
 
 One area of keen interest for me is the exciting world of blockchain technology. I have a curiosity about Ethereum, NFTs (Non-Fungible Tokens), and the decentralized applications (DApps) that can be built on the Ethereum platform.
 
