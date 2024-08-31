@@ -4,7 +4,7 @@ Hi my name is Winai (wi-nai)
 Senior Front end Developer
 -------------------------
 
-I'm a frontend developer with 5+ years of experience in the industry. I embarked on my coding journey over 5 years ago, starting with HTML and JavaScript. As I delved deeper into web development,
+I'm a frontend developer with 8+ years of experience in the industry. I embarked on my coding journey over 5 years ago, starting with HTML and JavaScript. As I delved deeper into web development,
 
 Over time, I honed my skills in React and expanded my expertise to include Next.js framework. These tools have allowed me to build scalable and performant applications 
 
