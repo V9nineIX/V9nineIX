@@ -54,10 +54,7 @@ throughout my career, I have actively sought opportunities to learn and grow as 
 </p>
 
 
-### Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/wi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/V9nineIX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
 
