@@ -4,13 +4,11 @@ Hi my name is Winai (wi-nai)
 Senior Front end Developer
 -------------------------
 
-I'm a frontend developer with 9+ years of experience in the industry. I embarked on my coding journey over 5 years ago, starting with HTML and JavaScript. As I delved deeper into web development,
+I'm a frontend developer with 11+ years of experience in the industry. I embarked on my coding journey over 5 years ago, starting with HTML and JavaScript. As I delved deeper into web development, I honed my skills in React and expanded my expertise to include the Next.js framework. These tools have allowed me to build scalable and performant applications.
 
-Over time, I honed my skills in React and expanded my expertise to include Next.js framework. These tools have allowed me to build scalable and performant applications 
+One area of keen interest for me is the exciting world of blockchain technology. I'm particularly curious about Ethereum, NFTs (Non-Fungible Tokens), and the decentralized applications (DApps) that can be built on the Ethereum platform.
 
-One area of keen interest for me is the exciting world of blockchain technology. I have a curiosity about Ethereum, NFTs (Non-Fungible Tokens), and the decentralized applications (DApps) that can be built on the Ethereum platform.
-
-throughout my career, I have actively sought opportunities to learn and grow as a developer. I stay up-to-date with the latest industry trends and technologies, constantly seeking to expand my knowledge and enhance my development skills.
+While my primary experience has been in e-commerce, AI, and blockchain, I am constantly learning and looking for ways to improve my skills, which aligns well with the fast-paced nature of the tech industry. Throughout my career, I have actively sought opportunities to learn and grow as a developer, staying up-to-date with the latest industry trends and technologies.
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning Blockchain , AI (LLM)
@@ -43,6 +41,9 @@ throughout my career, I have actively sought opportunities to learn and grow as 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+
+
   
 ### Web3 Blockchain
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
@@ -54,8 +55,18 @@ throughout my career, I have actively sought opportunities to learn and grow as 
 </p>
 
 
+### AI
+<p align="left">
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="36" height="36" alt="LangChain" /></a>
 
+</p>
 
+### DevOps
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
 
 
 
